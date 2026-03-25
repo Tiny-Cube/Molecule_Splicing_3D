@@ -1,4 +1,4 @@
-# 3D Merge
+# Molecule_Splicing_3D
 
 分子3D空间拼接工具 - 将两个分子在3D空间中按指定位点拼接，形成新的化学键。
 
